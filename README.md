@@ -1,7 +1,6 @@
-@@ -0,0 +1,9 @@
-# IBM-Project-20011-1659710833
-Car Resale value Prediction
-+  Car-Resale-Value-prediction
++ #IBM-Project-20011-1659710833
++ Car Resale value Prediction
++
 + | NAME                   | ROLL NUMBER  |   DEPARTMENT    |   
 + |-----------------------:|:------------:|:---------------:|
 + |SHALINI P               | 130719106039 |   ECE           |

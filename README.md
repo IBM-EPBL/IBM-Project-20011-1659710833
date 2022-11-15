@@ -89,6 +89,7 @@ If you are using anaconda navigator, follow the below steps to download the requ
 Open anaconda prompt. Type “pip install numpy” and click enter. Type “pip install pandas” and click enter. Type “pip install matplotlib” and click enter. Type “pip install scikit-learn” and click enter. Type “pip install Flask” and click enter.
 
 If you are using Pycharm IDE, you can install the packages through the command prompt and follow the same syntax as above.
+ Demo video link : https://drive.google.com/file/d/1oHz_84FFfpyIOkbLJ_vpsvWuvXaIC0ZY/view?usp=share_link
 
 
 
